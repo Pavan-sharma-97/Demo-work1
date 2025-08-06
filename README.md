@@ -1,6 +1,6 @@
 # Demo-work1
 just for practice
-hello this is just a practice
+hello this is just a practice ---------this line is a conflict line
 
 //these lines are extra
 hello this is another line of code
